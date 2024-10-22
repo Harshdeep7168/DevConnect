@@ -1,0 +1,15 @@
+{
+  "name": "devconnect",
+  "version": "1.0.0",
+  "description": "this is a connecting platform for developers",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "author": "Harshdeep Singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
